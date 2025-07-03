@@ -1,3 +1,3 @@
 # repo
 demo
-im trying github for the first time
+I'm trying github for the first time
